@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\shellcode\Debug\shellcode.exe
+C:\Users\hp\Desktop\shellcode\Debug\shellcode.pdb
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\Debug\shellcode.exe
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\Debug\shellcode.pdb

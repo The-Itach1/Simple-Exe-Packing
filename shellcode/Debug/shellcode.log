@@ -1,0 +1,8 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  源.cpp
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\源.cpp(22,25): warning C4081: 应输入“newline”；找到“;”
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\源.cpp(62,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\源.cpp(99,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\源.cpp(127,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\源.cpp(160,21): warning C4018: “<”: 有符号/无符号不匹配
+  shellcode.vcxproj -> D:\learning record\学术报告\Windows-Hack-Programming\My-Program\shellcode\Debug\shellcode.exe

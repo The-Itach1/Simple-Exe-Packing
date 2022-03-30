@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\hp\Desktop\shellcode\源.cpp(22,25): warning C4081: 应输入“newline”；找到“;”
+C:\Users\hp\Desktop\shellcode\源.cpp(60,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hp\Desktop\shellcode\源.cpp(103,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hp\Desktop\shellcode\源.cpp(131,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hp\Desktop\shellcode\源.cpp(162,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  shellcode.vcxproj -> C:\Users\hp\Desktop\shellcode\Release\shellcode.exe

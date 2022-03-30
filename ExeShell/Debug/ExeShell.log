@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\ExeShell\源.cpp(49,44): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\ExeShell\源.cpp(93,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\ExeShell\源.cpp(113,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Windows-Hack-Programming\My-Program\ExeShell\源.cpp(166,30): warning C4309: “=”: 截断常量值
+  ExeShell.vcxproj -> D:\learning record\学术报告\Windows-Hack-Programming\My-Program\ExeShell\Debug\ExeShell.exe
